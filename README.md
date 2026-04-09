@@ -75,6 +75,25 @@ const rashed = {
   <br/>
   <div align="center">
     <a href="https://www.linkedin.com/in/rashedulislam595/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.facebook.com/md.rashedul.islam.rashed.864655"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
     <a href="mailto:rashedulislam956581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
   </div>
 </div>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<hr>
+
+<!-- github status -->
+<div align="center">
+  <h1>📊 GitHub Stats</h1>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rashedulislam595&theme=tokyonight" />
+  <br> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashedulislam595&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+  
+</div>
+
+
