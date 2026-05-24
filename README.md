@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=rashedulislam595&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./Images/rashedBanner.png"/>
+<img align=”right” alt=”Coding” width=”400” src="./Images/mern-stack.png"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,11 +10,13 @@
 
 <div>
   <h2 align="center">🌌 About Me</h2>
-  <p>I’m a passionate Frontend Developer exploring the world of React, Next.js, and modern web technologies. My journey began with small projects that often broke spectacularly — and that’s exactly how I fell in love with programming. Every crash, bug, and late-night debug taught me something new, shaping the developer I am today.  
+  <p>I am a Junior MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications using MongoDB, Express.js, React, and Node.js. My journey in software development started with small projects that challenged me, broke often, and ultimately helped me grow into a more confident and problem-solving-focused developer.
 
-By day, I focus on building responsive and user-friendly web applications; by night, I explore side projects, learn new frameworks, and contribute to open source. My terminal is always open, coffee is usually cold, and my Git history tells stories that are sometimes funnier than they should be. 🙃  
+I enjoy turning ideas into responsive and functional web experiences, with a strong focus on clean UI, performance, and usability. On the frontend, I work with React and Next.js to create dynamic interfaces, while on the backend, I build RESTful APIs and manage databases using Node.js and MongoDB.
 
-When I step away from the screen, you might find me exploring new tech communities, experimenting with creative UI designs, or debating whether tabs are truly better than spaces. </p>
+Outside of coding, I continuously explore new technologies, improve my problem-solving skills, and contribute to personal and collaborative projects. I believe consistent learning and hands-on practice are key to becoming a better engineer.
+
+I’m currently looking for opportunities where I can contribute, learn from experienced developers, and grow as a full-stack engineer in a real-world environment. </p>
 </div>
 
 <hr/>
@@ -47,6 +49,10 @@ When I step away from the screen, you might find me exploring new tech communiti
   <code><img title="JSON" height="25" src="Images/json.svg"></code>
   <code><img title="GitHub" height="25" src="Images/github.svg"></code>
   <code><img title="npm" height="25" src="Images/npm.svg"></code>
+  <code><img title="GitHub" height="25" src="Images/nextJs.jpg"></code>
+  <code><img title="GitHub" height="25" src="Images/nodejs.jpg"></code>
+  <code><img title="GitHub" height="25" src="Images/expressJs.png"></code>
+  <code><img title="GitHub" height="25" src="Images/mongodb.png"></code>
 </div>
 
 
