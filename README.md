@@ -24,7 +24,7 @@ I’m currently looking for opportunities where I can contribute, learn from exp
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>HTML5, CSS3, TailwindCss, DaisyUI, JavaScript, React, Next.js</strong>
+- 🛠 &nbsp; I’m currently working with <strong>HTML5, CSS3, TailwindCss, DaisyUI, JavaScript, React, Next.js, Node.js, Express.js, MongoDB</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>modern Frontend Development, improving my skills in React.js & Next.js, JavaScript (ES6+), and UI/UX design principles.</strong>
 - 📫 &nbsp; Reach me out: <strong>rashedulislam956581@gmail.com</strong>
 
@@ -62,13 +62,13 @@ I’m currently looking for opportunities where I can contribute, learn from exp
 const rashed = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "TailwindCSS","DaisyUI"],
-  tools: ["React", "Next", "Node.js", "Styled-Components"],
+  tools: ["React", "Next", "Node.js","Express.js","MongoDB", "Styled-Components"],
   architecture: ["component-based", "responsive design", "design system"],
   techCommunities: {
   student: "Programming Hero (Batch-13)",
-  learner: "React & Next.js",
+  learner: "Express.js",
 },
-  challenge: "Actively participating in the #100DaysOfCode challenge, building real-world projects using React, Next.js, and modern web technologies",
+  challenge: "Actively participating in the #100DaysOfCode challenge, building real-world projects using React, Next.js, node.js, express.js, MongoDB and modern web technologies",
 }
 ```
 
