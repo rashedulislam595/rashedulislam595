@@ -49,10 +49,10 @@ I’m currently looking for opportunities where I can contribute, learn from exp
   <code><img title="JSON" height="25" src="Images/json.svg"></code>
   <code><img title="GitHub" height="25" src="Images/github.svg"></code>
   <code><img title="npm" height="25" src="Images/npm.svg"></code>
-  <code><img title="GitHub" height="25" src="Images/nextJs.jpg"></code>
-  <code><img title="GitHub" height="25" src="Images/nodejs.jpg"></code>
-  <code><img title="GitHub" height="25" src="Images/expressJs.png"></code>
-  <code><img title="GitHub" height="25" src="Images/mongodb.png"></code>
+  <code><img title="Next.Js" height="25" src="Images/nextJs.jpg"></code>
+  <code><img title="Node.Js" height="25" src="Images/nodejs.jpg"></code>
+  <code><img title="Express.Js" height="25" src="Images/expressJs.png"></code>
+  <code><img title="MongoDB" height="25" src="Images/mongodb.png"></code>
 </div>
 
 
@@ -71,6 +71,39 @@ const rashed = {
   challenge: "Actively participating in the #100DaysOfCode challenge, building real-world projects using React, Next.js, node.js, express.js, MongoDB and modern web technologies",
 }
 ```
+## 🚀 Featured Projects
+
+### 🚗 DriveFleet Car Rental Platform
+🔗 **Live:** https://drive-fleet-car-rental.vercel.app/  
+🔗 **Client Repo:** https://github.com/rashedulislam595/Assignment-9-DriveFleet-Car-Renta-Platform  
+🔗 **Server Repo:** https://github.com/rashedulislam595/Assignment-9-DriveFleet-Car-Renta-Platform-server
+
+A full-stack car rental platform designed to simulate a real-world booking and reservation system where users can browse available cars, view detailed information, and make reservations through a smooth and interactive user interface. The system is connected with a backend-driven architecture that handles data management, booking logic, and user interactions efficiently, ensuring a seamless experience between frontend and server. This project focuses on building practical real-world functionality, improving understanding of full-stack development, API integration, and modern web application workflows.
+
+✔ Users can browse available cars and view detailed information before making a booking, ensuring a smooth and intuitive rental experience with proper UI flow.  
+✔ The system handles booking logic with backend integration, allowing users to reserve cars and manage rental-related data efficiently.  
+✔ Authentication and structured backend APIs are implemented to ensure secure and organized data flow between frontend and server.
+
+🖼️ Screenshot  
+![DriveFleet Screenshot](Images/DriverFleet.png)
+
+---
+
+### 🎓 Orange SkillSphere – Online Learning Platform
+🔗 **Live:** https://assignment-8-orange-skill-sphere-on.vercel.app/  
+🔗 **Client Repo:** https://github.com/rashedulislam595/Assignment-8-Orange-SkillSphere-Online-Learning-Platform  
+🔗 **Server Repo:** https://github.com/rashedulislam595/SkillSphere-Courses-Server
+
+An online learning platform designed to simulate a real-world educational system where users can explore various courses, view structured learning content, and experience a dynamic and interactive interface. The platform focuses on course-based organization, allowing users to navigate through different categories and access detailed course information in a clear and intuitive way. It is built with a responsive UI that ensures a seamless experience across all devices, while also demonstrating dynamic content rendering and efficient state handling. This project reflects practical implementation of modern frontend development concepts, including component-based architecture, user-centric design, and smooth data presentation for an engaging learning experience.
+
+✔ Users can explore different courses and categories through a structured UI that dynamically renders content based on user interaction.  
+✔ The platform is designed with a responsive layout to ensure a seamless experience across mobile, tablet, and desktop devices.  
+✔ Data is handled dynamically to simulate a real learning management system with organized content flow.
+
+🖼️ Screenshot  
+![SkillSphere Screenshot](Images/skillSpehere.png)
+
+---
 
 <hr>
 <div>
@@ -81,8 +114,10 @@ const rashed = {
   <br/>
   <div align="center">
     <a href="https://www.linkedin.com/in/rashedulislam595/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://www.facebook.com/md.rashedul.islam.rashed.864655"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+    <a href="https://www.facebook.com/profile.php?id=61589536152548"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
     <a href="mailto:rashedulislam956581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+    <a href="https://my-portfolio-brown-phi-y9czbe2w3q.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
+    <a href="https://drive.google.com/file/d/1liObPupEdBxnmpXPciazropcE5p1snpE/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=readthedocs&logoColor=white" alt="Resume Badge"/></a>
   </div>
 </div>
 
