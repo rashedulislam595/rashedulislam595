@@ -105,7 +105,6 @@ An online learning platform designed to simulate a real-world educational system
 
 ---
 
-<hr>
 <div>
   <h2 align="center">🌐 Connect With Me</h2>
   <div align="center">
