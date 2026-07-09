@@ -10,13 +10,37 @@
 
 <div>
   <h2 align="center">🌌 About Me</h2>
-  <p>I am a Junior MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications using MongoDB, Express.js, React, and Node.js. My journey in software development started with small projects that challenged me, broke often, and ultimately helped me grow into a more confident and problem-solving-focused developer.
+  <p> I'm **Md Rashedul Islam Rashed**, a passionate **MERN Stack Developer** who enjoys building modern, responsive, and scalable web applications that deliver great user experiences.
 
-I enjoy turning ideas into responsive and functional web experiences, with a strong focus on clean UI, performance, and usability. On the frontend, I work with React and Next.js to create dynamic interfaces, while on the backend, I build RESTful APIs and manage databases using Node.js and MongoDB.
+My primary tech stack includes **React.js, Next.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, and Git/GitHub**. I enjoy transforming ideas into clean, efficient, and maintainable applications while continuously learning modern web technologies and industry best practices.
 
-Outside of coding, I continuously explore new technologies, improve my problem-solving skills, and contribute to personal and collaborative projects. I believe consistent learning and hands-on practice are key to becoming a better engineer.
+### 🚀 What I've Built
 
-I’m currently looking for opportunities where I can contribute, learn from experienced developers, and grow as a full-stack engineer in a real-world environment. </p>
+I've developed several full-stack applications, including:
+
+- 📚 **Fable – Ebook Sharing Platform** – A modern ebook sharing platform featuring secure authentication, role-based dashboards, Stripe payment integration, ebook management, pagination, reviews, wishlist functionality, and a responsive user experience.
+- 🚗 **Drive Fleet Car Rental** – A vehicle booking and management platform featuring secure authentication, role-based dashboards, RESTful APIs, booking management, and a responsive user experience.
+- 🎓 **Skill Sphere** – A full-stack online learning platform designed to support skill development, course management, and user engagement.
+
+Through these projects, I have gained hands-on experience with:
+
+- 🔐 Authentication & Authorization
+- 📡 REST API Development & Integration
+- 💳 Stripe Payment Integration
+- 🗄️ MongoDB Database Design
+- ⚙️ CRUD Operations
+- 🛡️ Protected Routes
+- 📱 Responsive UI Development
+- 🚀 Deploying Production-Ready Applications
+
+I enjoy writing clean, reusable, and maintainable code while building intuitive, performance-focused applications that solve real-world problems.
+
+To enhance my development workflow, I leverage AI tools such as **ChatGPT, Gemini, Claude, and Cursor** for planning, debugging, documentation, and productivity while ensuring I fully understand and can confidently explain every solution I build.
+
+🌱 I'm currently seeking **Software Engineer**, **Frontend Developer**, **React Developer**, or **MERN Stack Developer** internship and entry-level opportunities where I can contribute to impactful products, collaborate with experienced engineers, and continue growing as a developer.
+
+💬 I'm always open to connecting, collaborating, and building innovative web applications with developers, recruiters, and engineering teams worldwide.
+ </p>
 </div>
 
 <hr/>
@@ -38,6 +62,7 @@ I’m currently looking for opportunities where I can contribute, learn from exp
 
 <div align="center">
   <code><img title="Javascript" height="25" src="Images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="Images/TypeScript.jpg"></code>
   <code><img title="Problem Solving" height="25" src="Images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="Images/html5.svg"></code>
   <code><img title="CSS" height="25" src="Images/css.svg"></code>
@@ -72,6 +97,22 @@ const rashed = {
 }
 ```
 ## 🚀 Featured Projects
+
+### 🚗 Fable: Ebook Sharing Platform
+🔗 **Live:** https://fable-ebook-sharing-platform.vercel.app/ <br>
+🔗 **Client Repo:** https://github.com/rashedulislam595/Fable-Ebook-Sharing-Platform  
+🔗 **Server Repo:** https://github.com/rashedulislam595/Fable-Ebook-Sharing-Platform-Server
+
+A full-stack ebook sharing platform that connects readers and writers through a modern, secure, and user-friendly experience. Readers can discover and purchase ebooks, while writers can publish and manage their own digital books. The platform features role-based dashboards, secure authentication, online payments, pagination, and an admin panel for managing users and content. This project emphasizes real-world full-stack architecture, scalable API design, authentication, payment integration, and responsive UI development.
+
+✔ Readers can browse ebooks with search, category filtering, and pagination, view detailed information, purchase books securely through Stripe, and access their purchased library from a personalized dashboard.
+✔ Writers can upload, edit, and manage their ebooks, while admins can oversee users and platform content through dedicated role-based dashboards with secure access control.
+✔ Secure authentication (Email/Password & Google Login), JWT-based authorization, RESTful backend APIs, Stripe payment integration, and optimized pagination provide a secure, scalable, and efficient user experience.
+
+🖼️ Screenshot  
+![DriveFleet Screenshot](Images/EbookMockup.png)
+
+---
 
 ### 🚗 DriveFleet Car Rental Platform
 🔗 **Live:** https://drive-fleet-car-rental.vercel.app/  
